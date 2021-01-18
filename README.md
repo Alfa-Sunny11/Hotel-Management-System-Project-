@@ -1,1 +1,1 @@
-# Hospital-Managment-System-c-project-
+# Hospital-Management-System-c#-project-
